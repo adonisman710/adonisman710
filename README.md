@@ -8,18 +8,6 @@
 
 <br/>
 
-<div align="center"> 
-  <a href="https://portfolio-nu-ten-72.vercel.app/">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<!--   <a href="https://linkedin.com/in/kevinscott" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
-    <a href="https://portfolio-nu-ten-72.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-     </a>
-</div>
-
  <hr/>
 
 
@@ -33,7 +21,6 @@
 :hearts: &emsp;I enjoy programming and sharing knowledge <br />
 :computer: &emsp;Most used line of code `console.log("hello world")` <br />
 - <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Fun fact **World first developer was a women**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **kevin12.scott14@gmail.com**
 <div align="center">
   
 <h2 align="center">⚒️ Things I code with ⚒️</h2>
