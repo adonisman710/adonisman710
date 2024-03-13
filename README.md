@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:kevin12.scott14@gmail.com">
+  <a href="https://portfolio-nu-ten-72.vercel.app/#contact">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 <!--   <a href="https://linkedin.com/in/kevinscott" target="_blank">
@@ -33,7 +33,7 @@
 :hearts: &emsp;I enjoy programming and sharing knowledge <br />
 :computer: &emsp;Most used line of code `console.log("hello world")` <br />
 - <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Fun fact **World first developer was a women**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **kevin12.scott14@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **kevin12.scott14@gmail.com**[https://portfolio-nu-ten-72.vercel.app/#contact]
 <div align="center">
   
 <h2 align="center">⚒️ Things I code with ⚒️</h2>
